@@ -18,7 +18,11 @@ Este livro ensina programação para quem nunca programou, usando Python 3 nos e
 
 ## Como rodar os Ipynbs
 
-Para executar os arquivos _.ipynb_ de forma interativa, você pode baixar (ou clonar) os arquivos e os executar via internet no [CoCalc](www.cocalc.com) ou no [Microsoft Azure](https://notebooks.azure.com), ou ainda poderá instalar o [JupyterLab](https://github.com/jupyterlab/jupyterlab) para executar os arquivos no seu computador. Abra o JupyterLab a partir de um terminal (Prompt de comandos) já na pasta onde estão os arquivos baixados e bom estudo.
+Para executar os arquivos _.ipynb_ de forma interativa, você pode clicar no botão
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cfsouza/PensePython2e-Ipynb/master)
+
+ou ainda baixar (ou clonar) os arquivos e os executar via internet no [CoCalc](www.cocalc.com) ou no [Microsoft Azure](https://notebooks.azure.com), ou ainda poderá instalar o [JupyterLab](https://github.com/jupyterlab/jupyterlab) para executar os arquivos no seu computador. Abra o JupyterLab a partir de um terminal (Prompt de comandos) já na pasta onde estão os arquivos baixados e bom estudo.
 
 ## Proveniência
 
