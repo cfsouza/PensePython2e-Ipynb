@@ -1,7 +1,7 @@
 # ThinkPythonIpynbPtBr
 Think Python's Jupyter notebooks in Brazilian Portuguese.
 
-This Jupyter notebook files were developed from markdown files shared by [Luciano Ramalho](https://github.com/thoughtworks) at [`PenseAllen/PensePython2e/docs/`](https://github.com/PenseAllen/PensePython2e/tree/master/docs).
+This Jupyter notebook files were developed from markdown files shared by [Luciano Ramalho](https://github.com/ramalho) at [`PenseAllen/PensePython2e/docs/`](https://github.com/PenseAllen/PensePython2e/tree/master/docs).
 
 # Ipynbs do Pense em Python
 
@@ -26,7 +26,7 @@ ou ainda baixar (ou clonar) os arquivos e os executar via internet no [CoCalc](w
 
 ## Proveniência
 
-Agradecemos a [Luciano Ramalho](https://github.com/thoughtworks) por ter disponibilizado os arquivos _markdown_ separados por capítulo de [Pense em Python](https://novatec.com.br/livros/pense-em-python/), publicados sob licença [CC BY-NC 3.0](LICENSE.md), em [`PenseAllen/PensePython2e/docs/`](https://github.com/PenseAllen/PensePython2e/docs/).
+Agradecemos a [Luciano Ramalho](https://github.com/ramalho) por ter disponibilizado os arquivos _markdown_ separados por capítulo de [Pense em Python](https://novatec.com.br/livros/pense-em-python/), publicados sob licença [CC BY-NC 3.0](LICENSE.md), em [`PenseAllen/PensePython2e/docs/`](https://github.com/PenseAllen/PensePython2e/docs/).
 
 Cada arquivo _markdown_ foi convertido para _ipynb_ com a ferramenta [notedown](https://github.com/aaren/notedown) disponibilizada por Aaron O'Leary, sob a licença [BSD-2-Clause](https://github.com/aaren/notedown/blob/master/LICENSE), a quem também agradecemos. Para conversão, utilizamos a seguinte linha de comando:
 
@@ -34,4 +34,4 @@ Cada arquivo _markdown_ foi convertido para _ipynb_ com a ferramenta [notedown](
 $ notedown input.md > output.ipynb
 ```
 
-A partir desse ponto, os ajustes de definição de tipo de célula por conteúdo nos capítulos foram feitos manualmente, sendo incluídas em cada capítulo poucas células de código para permitir experiência mais didática de interação com o documento e substituídas menções a números de páginas por número do capítulo.
+A partir desse ponto, os ajustes de definição de tipo de célula por conteúdo nos capítulos foram feitos manualmente, sendo (i) incluídas em cada capítulo poucas células de código, para permitir experiência mais didática de interação com o documento, (ii) substituído o uso do módulo `turtle` pelo `mobilechelonian`, para utilizar o módulo `turtle` _inline_ no capítulo 4, e (iii) substituídas menções a números de páginas por número do capítulo.
