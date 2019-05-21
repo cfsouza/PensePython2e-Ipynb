@@ -26,7 +26,7 @@ ou ainda baixar (ou clonar) os arquivos e os executar via internet no [CoCalc](w
 
 ## Proveniência
 
-Agradecemos a [Luciano Ramalho](https://github.com/ramalho) por ter disponibilizado os arquivos _markdown_ separados por capítulo de [Pense em Python](https://novatec.com.br/livros/pense-em-python/), publicados sob licença [CC BY-NC 3.0](LICENSE.md), em [`PenseAllen/PensePython2e/docs/`](https://github.com/PenseAllen/PensePython2e/docs/).
+Agradecemos a [Luciano Ramalho](https://github.com/ramalho) por ter disponibilizado os arquivos _markdown_ separados por capítulo de [Pense em Python](https://novatec.com.br/livros/pense-em-python/), publicados sob licença [CC BY-NC 3.0](LICENSE.md), em [`PenseAllen/PensePython2e/docs/`](https://github.com/PenseAllen/PensePython2e/tree/master/docs).
 
 Cada arquivo _markdown_ foi convertido para _ipynb_ com a ferramenta [notedown](https://github.com/aaren/notedown) disponibilizada por Aaron O'Leary, sob a licença [BSD-2-Clause](https://github.com/aaren/notedown/blob/master/LICENSE), a quem também agradecemos. Para conversão, utilizamos a seguinte linha de comando:
 
