@@ -115,7 +115,7 @@ class Deck:
             hand.add_card(self.pop_card())
         
 class Hand(Deck):
-    """Represents a hand of playing cards."""
+    """Represents a hand of playing cards."""
     
     def __init__(self, label=''):
         self.cards = []
