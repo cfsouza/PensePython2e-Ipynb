@@ -3,7 +3,7 @@ Think Python's Jupyter notebooks in Brazilian Portuguese.
 
 This Jupyter notebook files were developed from markdown files shared by [Luciano Ramalho](https://github.com/ramalho) at [`PenseAllen/PensePython2e/docs/`](https://github.com/PenseAllen/PensePython2e/tree/master/docs).
 
-# Ipynbs do Pense em Python
+# Jupyter Notebooks (Ipynbs) do Pense em Python
 
 <a href="https://novatec.com.br/livros/pense-em-python/"><img src="https://github.com/PenseAllen/PensePython2e/raw/master/img/Capa_PenseEmPython167x232.png" align="right" style="margin-left: 20px;"></a>
 
@@ -34,4 +34,4 @@ Cada arquivo _markdown_ foi convertido para _ipynb_ com a ferramenta [notedown](
 $ notedown input.md > output.ipynb
 ```
 
-A partir desse ponto, os ajustes de definição de tipo de célula por conteúdo nos capítulos foram feitos manualmente, sendo (i) incluídas em cada capítulo poucas células de código, para permitir experiência mais didática de interação com o documento, (ii) substituído o uso do módulo `turtle` pelo `mobilechelonian`, para utilizar o módulo `turtle` _inline_ no capítulo 4, e (iii) substituídas menções a números de páginas por número do capítulo.
+A partir desse ponto, os ajustes de definição de tipo de célula por conteúdo nos capítulos foram feitos manualmente, sendo (i) incluídas em cada capítulo poucas células de código, para permitir experiência mais didática de interação com o documento, (ii) substituído o uso do módulo `turtle` pelo `mobilechelonian`, para utilizar o módulo `turtle` _inline_ no capítulo 4, (iii) substituídas menções a números de páginas por número do capítulo ou do item no capítulo e (iv) realizadas pequenas adaptações à tradução para facilitar a fluência da leitura.
